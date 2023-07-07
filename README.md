@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Timi</h1>
-<h3 align="center">A second year Computer Science and Engineering student</h3>
+<h3 align="center">A sophomore Computer Science and Engineering student</h3>
 
 - 🔭 I’m currently working on **Bank Management Software**
 
