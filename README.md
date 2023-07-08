@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Timi</h1>
 <h3 align="center">A sophomore Computer Science and Engineering student</h3>
 
-- 🔭 I’m currently working on **Bank Management Software**
+- 🔭 I’m currently working on **any project that captures my interest(s)**
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **HTML5 & CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
